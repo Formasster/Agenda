@@ -241,4 +241,6 @@ public class RubtsovaAlesia {
     //Gabi was here
     //(...For IDE exercise...)
     //:P
+
+    //Привет Алеся
 }
